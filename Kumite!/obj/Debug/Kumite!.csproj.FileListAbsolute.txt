@@ -1,0 +1,6 @@
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\bin\Debug\Kumite!.exe.config
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!.csprojResolveAssemblyReference.cache
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\MainWindow.g.cs
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\App.g.cs
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!_MarkupCompile.cache
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!_MarkupCompile.lref

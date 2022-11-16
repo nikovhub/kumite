@@ -1,0 +1,15 @@
+﻿<Window x:Class="Kumite_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kumite_"
+        mc:Ignorable="d"
+        Title="Kumite!" Height="300" Width="650">
+    <Grid>
+        <Canvas Name="PlayerCanvas" Background="LightSlateGray" HorizontalAlignment="Left" Height="269" VerticalAlignment="Top" Width="642" KeyDown="frankDux_KeyUp" Focusable="True">
+            <Rectangle Fill="#305fab" Height="46" Stroke="Black" Canvas.Top="223" Width="642"/>
+
+        </Canvas>
+    </Grid>
+</Window>
