@@ -37,6 +37,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -55,6 +56,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -88,6 +94,10 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -96,6 +106,45 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\badguypunchleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\badguypunchright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\badguyrunleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\badguyrunright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expls1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expls2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expls3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jumpleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jumpright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lookleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lookright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\punchleft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\punchright.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

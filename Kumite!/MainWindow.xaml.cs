@@ -20,11 +20,16 @@ namespace Kumite_
     /// </summary>
     public partial class MainWindow : Window
     {
-        private bool rightDown = false;
-        private bool leftDown = false;
+        public bool rightDown = false;
+        public bool leftDown = false;
+        public bool gameOver = false;
+        public bool doJump = false;
+        public bool doPunch = false;
+        frankDux frank;
         public MainWindow()
         {
             InitializeComponent();
+            frank = new frankDux(this);
         }
 
         private void frankDux_KeyDown(object sender, KeyEventArgs e)
@@ -39,10 +44,10 @@ namespace Kumite_
                     rightDown = true;
                     break;
                 case Key.Up:
-                    //frankDux.Jump();
+                    doJump = true;
                     break;
                 case Key.Space:
-                    //frankDux.Punch();
+                    doPunch = true;
                     break;
             }
         }

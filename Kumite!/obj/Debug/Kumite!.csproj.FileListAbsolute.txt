@@ -4,3 +4,12 @@ C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\D
 C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\App.g.cs
 C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!_MarkupCompile.cache
 C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!_MarkupCompile.lref
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\bin\Debug\Kumite!.exe
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\bin\Debug\Kumite!.pdb
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\MainWindow.baml
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!.g.resources
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite_.Properties.Resources.resources
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite_.Resource1.resources
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!.csproj.GenerateResource.Cache
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!.exe
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!.pdb

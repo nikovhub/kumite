@@ -5,10 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kumite_"
         mc:Ignorable="d"
-        Title="Kumite!" Height="300" Width="650">
+        Title="Kumite!" Height="700" Width="1900">
     <Grid>
-        <Canvas Name="PlayerCanvas" Background="LightSlateGray" HorizontalAlignment="Left" Height="269" VerticalAlignment="Top" Width="642" KeyDown="frankDux_KeyUp" Focusable="True">
-            <Rectangle Fill="#305fab" Height="46" Stroke="Black" Canvas.Top="223" Width="642"/>
+        <Canvas Name="PlayerCanvas" Background="LightSlateGray" HorizontalAlignment="Left" Height="669" VerticalAlignment="Top" Width="1892" KeyDown="frankDux_KeyUp" Focusable="True">
+            <Rectangle Fill="#305fab" Height="100" Stroke="Black" Canvas.Top="569" Width="1892"/>
 
         </Canvas>
     </Grid>
