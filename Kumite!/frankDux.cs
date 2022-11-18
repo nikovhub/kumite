@@ -31,6 +31,7 @@ namespace Kumite_
             PunchRight = new Image();
             JumpLeft = new Image();
             JumpRight = new Image();
+
             LookLeft.Source = ToBitmapSource(Resource1.lookleft);
             LookRight.Source = ToBitmapSource(Resource1.lookright);
             PunchLeft.Source = ToBitmapSource(Resource1.punchleft);
