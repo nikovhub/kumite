@@ -32,7 +32,7 @@ namespace Kumite_
             frank = new frankDux(this);
         }
 
-        private void frankDux_KeyDown(object sender, KeyEventArgs e)
+        private void PlayArea_KeyDown(object sender, KeyEventArgs e)
         {
 
             switch (e.Key)
@@ -51,7 +51,7 @@ namespace Kumite_
                     break;
             }
         }
-       private void frankDux_KeyUp(object sender, KeyEventArgs e)
+       private void PlayArea_KeyUp(object sender, KeyEventArgs e)
         {
             switch (e.Key)
             {

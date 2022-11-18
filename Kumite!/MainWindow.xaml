@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kumite_"
         mc:Ignorable="d"
-        Title="Kumite!" Height="700" Width="1900">
+        Title="Kumite!" Height="700" Width="1900" FocusManager.FocusedElement="{Binding ElementName=PlayArea}">
     <Grid>
-        <Canvas Name="PlayerCanvas" Background="LightSlateGray" HorizontalAlignment="Left" Height="669" VerticalAlignment="Top" Width="1892" KeyDown="frankDux_KeyUp" Focusable="True">
+        <Canvas Name="PlayArea" Background="LightSlateGray" HorizontalAlignment="Left" Height="669" VerticalAlignment="Top" Width="1892" KeyDown="PlayArea_KeyDown" KeyUp="PlayArea_KeyUp" Focusable="True">
             <Rectangle Fill="#305fab" Height="100" Stroke="Black" Canvas.Top="569" Width="1892"/>
 
         </Canvas>

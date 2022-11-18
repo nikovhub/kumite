@@ -13,3 +13,6 @@ C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\D
 C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!.csproj.GenerateResource.Cache
 C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!.exe
 C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\Kumite!\Kumite!\obj\Debug\Kumite!.pdb
+C:\Users\niko.virta\Documents\GitHub\kumite\Kumite!\bin\Debug\Kumite!.exe.config
+C:\Users\niko.virta\Documents\GitHub\kumite\Kumite!\obj\Debug\Kumite!.exe
+C:\Users\niko.virta\Documents\GitHub\kumite\Kumite!\obj\Debug\Kumite!.pdb
